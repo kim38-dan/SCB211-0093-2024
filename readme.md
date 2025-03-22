@@ -1,7 +1,7 @@
 # Personal Portfolio Website
 
 ## Overview
-This is a personal portfolio website for Daniel Kimutai Kipkembo, showcasing biotech skills and favorite recipes.
+This is a personal portfolio website for Daniel Kimutai Kipkemboi, showcasing biotech skills and favorite recipes.
 
 ## Project Structure
 - `index.html` - Landing/Home page
